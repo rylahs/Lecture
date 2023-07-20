@@ -1,6 +1,6 @@
 # Online Lecture
  온라인 강의 수강 상태 및 현황    
- 총 수강 시간 : 10 Hours 47 Minutes + @
+ 총 수강 시간 : 14 Hours 45 Minutes + @
  
 ## 📍 Web Progress Record (S : Status / R : Result) 
 ###   Listen Time : 03 Hours 58 Minutes
