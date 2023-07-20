@@ -66,7 +66,8 @@
   
 [학습현황](https://github.com/rylahs/Lecture/blob/main/BaaaaaaaaaaaaaaaaaaaaarkingDog/Algorithm.md)    
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rylahs)](https://solved.ac/rylahs)    
+[![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=rylahs&theme=dark)](https://solved.ac/rylahs)    
 
 
 
