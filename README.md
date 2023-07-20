@@ -12,9 +12,11 @@
 
 [학습현황](https://github.com/rylahs/Lecture/blob/main/C%2CGame/C%2CGame.md)
 
-## 📍 E-learning Progress Record (S : Status / R : Result)
+## 📍 Nocode Program Progress Record (S : Status / R : Result)
+### Listen Time : 00 Hours 00 Minutes
 
-[학습현황](https://github.com/rylahs/Lecture/blob/main/Etc/Etc.md)    
+[학습현황](https://github.com/rylahs/Lecture/blob/main/Nocode/Nocode.md)
+
 
 
 ## 📍 Algorithm Progress Record
@@ -23,6 +25,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rylahs)](https://solved.ac/rylahs)    
 [![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=rylahs&theme=dark)](https://solved.ac/rylahs)    
+
+
+
+## 📍 E-learning Progress Record (S : Status / R : Result)
+
+[학습현황](https://github.com/rylahs/Lecture/blob/main/Etc/Etc.md)    
+
+
 
 
 
