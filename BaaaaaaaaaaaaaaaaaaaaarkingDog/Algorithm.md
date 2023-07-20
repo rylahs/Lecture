@@ -1,6 +1,6 @@
 ## 📍 Algorithm Progress Record
 [BOJ : rylahs](https://github.com/rylahs/BOJ/blob/main/README.md)    
-[현재 Silver IV 상위 ?%](https://solved.ac/profile/rylahs)    
+[현재 Silver IV 상위 57.55%](https://solved.ac/profile/rylahs)    
 [학습현황](https://github.com/rylahs/Lecture/blob/main/BaaaaaaaaaaaaaaaaaaaaarkingDog/Algorithm.md)    
 
 
@@ -85,8 +85,8 @@ Last Update Date : 2023.07.20
 0x17. [우선순위 큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x17.md)  
 ![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)    
 
-0x18. [그래프](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x18.md) 
-![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13)    
+0x18. [그래프](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x18.md)   
+![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13)      
 
 0x19. [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md)    
 ![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13)    
