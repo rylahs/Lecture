@@ -1,122 +1,26 @@
-## 📍 Algorithm Progress Record    
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rylahs)](https://solved.ac/rylahs)    
-[![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=rylahs&theme=dark)](https://solved.ac/rylahs)    
-
-[BOJ : rylahs](https://github.com/rylahs/BOJ/blob/main/README.md)    
-[현재 Silver IV 상위 57.55%](https://solved.ac/profile/rylahs)    
-[학습현황](https://github.com/rylahs/Lecture/blob/main/BaaaaaaaaaaaaaaaaaaaaarkingDog/Algorithm.md)    
-
-
-### 현재 학습 진행도 (Plan.md와 동일)    
-
-[현재 스터디 자료 : BaaaaaaaarkingDog](https://blog.encrypted.gg/919?category=773649)    
-[기본 이론 YouTube Play List : BaaaaaaaarkingDog](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)    
-[문제집 링크 : Github(BaaaaaaaarkingDog)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)    
-Last Update Date : 2023.07.20    
-
-한눈에 보기    
-![100%](https://progress-bar.dev/30/?scale=448&title=progress&width=500&color=babaca&suffix=/448)    
-
-0x00. 오리엔테이션    
-![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1)    
-
-0x01. 기초 코드 작성 요령 I    
-![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1)    
-
-0x02. [기초 코드 작성 요령 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md)    
-![100%](https://progress-bar.dev/19/?scale=27&title=progress&width=500&color=babaca&suffix=/27)    
-
-0x03. [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)    
-![100%](https://progress-bar.dev/2/?scale=8&title=progress&width=500&color=babaca&suffix=/8)    
-
-0x04. [연결 리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)    
-![100%](https://progress-bar.dev/0/?scale=3&title=progress&width=500&color=babaca&suffix=/3)    
-
-0x05. [스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)    
-![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)    
-
-0x06. [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)    
-![100%](https://progress-bar.dev/0/?scale=3&title=progress&width=500&color=babaca&suffix=/3)    
-
-0x07. [덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)    
-![100%](https://progress-bar.dev/0/?scale=4&title=progress&width=500&color=babaca&suffix=/4)    
-
-0x08. [스택의 활용(수식의 괄호 쌍)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x08.md)    
-![100%](https://progress-bar.dev/0/?scale=5&title=progress&width=500&color=babaca&suffix=/5)    
-
-0x09. [BFS(Breadth First Search)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x09.md)    
-![100%](https://progress-bar.dev/0/?scale=30&title=progress&width=500&color=babaca&suffix=/30)    
-
-0x0A. DFS    
-
-0x0B. [재귀](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0B.md)    
-![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)    
-
-0x0C. [백트래킹](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)     
-![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20)    
-
-0x0D. [시뮬레이션](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)    
-![100%](https://progress-bar.dev/0/?scale=61&title=progress&width=500&color=babaca&suffix=/60)    
-
-0x0E. [정렬 I](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0E.md)    
-![100%](https://progress-bar.dev/6/?scale=8&title=progress&width=500&color=babaca&suffix=/8)    
-
-0x0F. [정렬 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)    
-![100%](https://progress-bar.dev/1/?scale=9&title=progress&width=500&color=babaca&suffix=/9)    
-
-0x10. [다이나믹 프로그래밍(DP)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)    
-![100%](https://progress-bar.dev/0/?scale=44&title=progress&width=500&color=babaca&suffix=/44)    
-
-0x11. [그리디(Greedy)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)    
-![100%](https://progress-bar.dev/0/?scale=17&title=progress&width=500&color=babaca&suffix=/17)    
-
-0x12. [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)    
-![100%](https://progress-bar.dev/1/?scale=39&title=progress&width=500&color=babaca&suffix=/39)   
-
-0x13. [이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)    
-![100%](https://progress-bar.dev/0/?scale=21&title=progress&width=500&color=babaca&suffix=/21)    
-
-0x14. [투 포인터](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x14.md)    
-![100%](https://progress-bar.dev/0/?scale=11&title=progress&width=500&color=babaca&suffix=/11)    
-
-0x15. [해시](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x15.md)    
-![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)    
-
-0x16. [이진 검색 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x16.md)    
-![100%](https://progress-bar.dev/0/?scale=7&title=progress&width=500&color=babaca&suffix=/7)    
-
-0x17. [우선순위 큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x17.md)  
-![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)    
-
-0x18. [그래프](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x18.md)   
-![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13)      
-
-0x19. [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md)    
-![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13)    
-
-0x1A. [위상정렬](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md)    
-![100%](https://progress-bar.dev/0/?scale=7&title=progress&width=500&color=babaca&suffix=/7)    
-
-0x1B. [최소 신장 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1B.md)    
-![100%](https://progress-bar.dev/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9)    
-
-0x1C. [플로이드 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1C.md)    
-![100%](https://progress-bar.dev/0/?scale=15&title=progress&width=500&color=babaca&suffix=/15)    
-
-0x1D. [다익스트라 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1D.md)     
-![100%](https://progress-bar.dev/0/?scale=14&title=progress&width=500&color=babaca&suffix=/14)    
-
-0x1E. [KMP 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1E.md)    
-![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)    
-
-0x1F. [트라이](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1F.md)    
-![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)    
-
-Appendix A. [문자열 기초](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20A.md)    
-![100%](https://progress-bar.dev/0/?scale=16&title=progress&width=500&color=babaca&suffix=/16)    
-
-Appendix B. 동적 배열  
-Appendix C. 비트마스킹  
-Appendix D. union find  
-Appendix E. 다이나믹 프로그래밍 심화  
+## 📍 Web Progress Record (S : Status / R : Result) 
+### Listen Lecture : 60 / 1321
+###   Listen Time : 03 Hours 58 Minutes
+| # | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Language&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | S | R |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 01 | [누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기](https://www.inflearn.com/course/jsp-%EA%B2%8C%EC%8B%9C%ED%8C%90) | ![100%](https://progress-bar.dev/15/?scale=15&width=60&color=babaca&suffix=/15) </br> 02h 17m | Java, JSP | 22.03.17 ~ 22.03.22 | [✅](./Inflearn/JSP/Complete.PNG) | [✅](https://github.com/rylahs/JSP-Board) |
+| 02 | [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) | ![100%](https://progress-bar.dev/7/?scale=28&width=60&color=babaca&suffix=/28) </br> 00h 58m | BE, Java, Spring, MVC, Spring Boot | 22.04.08 ~ 22.04.10 </br> 23.07.18 ~ 23.07.22 | [✅](./Inflearn/Spring/0x01.BasicComplete.PNG) | [✅](https://github.com/rylahs/Study/tree/main/Spring/SpringBasic/hello-spring) |
+| 03 | [스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8) | ![100%](https://progress-bar.dev/0/?scale=65&width=60&color=babaca&suffix=/65) </br> 00h 00m | BE, Spring, OOP | 22.03.02 ~ 22.03.15 </br> 22.04.11 ~ 22.04.19 </br> 22.07.23 ~ 23.08.01 | [✅](https://www.inflearn.com/certificate/693269-325969-10292316) | [✅](#) |
+| 04 | [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1) | ![100%](https://progress-bar.dev/0/?scale=36&width=60&color=babaca&suffix=/36) </br> 00h 00m | BE, Java, Spring, Spring Boot, Web | 22.03.02 ~ 22.03.10 </br> 23.07.25 ~ 23.07.25 | [:hammer:](#) | [:hammer:](#) |
+| 05 | [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic) | ![100%](https://progress-bar.dev/0/?scale=54&width=60&color=babaca&suffix=/54) </br> 00h 00m | Java, JPA | 22.04.20 ~ 22.04.29 </br> 23.07.29 ~ 23.07.29 | [:hammer:](#) | [:hammer:](#) |
+| 06 | [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) | ![100%](https://progress-bar.dev/0/?scale=41&width=60&color=babaca&suffix=/41) </br> 00h 00m | Network, Web, BE | 22.03.29 ~ 22.03.31 </br> 22.04.19 ~ 22.04.20 </br> 23.07.30 ~ 23.07.31 | [✅](https://www.inflearn.com/certificate/693269-326277-10301205) | [✅](#) |
+| 07 | [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1) | ![100%](https://progress-bar.dev/0/?scale=72&width=60&color=babaca&suffix=/72) </br> 00h 00m | BE, Spring, MVC | 22.05.01 ~ 22.05.05 </br> 23.07.30 ~ 23.07.31 | [✅](https://www.inflearn.com/certificate/693269-326674-10301206) | [✅](https://www.inflearn.com/certificate/693269-326674-10301206) |
+| 08 | [스프링 MVC 2편 - 백엔드 웹 개발 활용 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2) | ![100%](https://progress-bar.dev/0/?scale=129&width=60&color=babaca&suffix=/129) </br> 00h 00m | BE, Spring, MVC | 22.05.05 ~ 22.05.18 </br> 23.08.01 ~ 23.08.10  | [:hammer:](#) | [:hammer:](#) |
+| 09 | [스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1) | ![100%](https://progress-bar.dev/0/?scale=57&width=60&color=babaca&suffix=/57) </br> 00h 00m | BE, Spring, DB | 22.04.12 ~ 22.04.14 </br> 23.08.01 ~ 23.08.10 | [:hammer:](#) | [:hammer:](#) |
+| 10 | [스프링 DB 2편 - 데이터 접근 활용 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-2) | ![100%](https://progress-bar.dev/0/?scale=88&width=60&color=babaca&suffix=/88) </br> 00h 00m | Spring | ❌ | [❌](#) | [❌](#) |
+| 11 | [스프링 핵심 원리 - 고급편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8) | ![100%](https://progress-bar.dev/0/?scale=125&width=60&color=babaca&suffix=/125) </br> 00h 00m | BE, Spring, MVC | ❌ | [❌](#) | [❌](#) |
+| 12 | [스프링 부트 - 핵심 원리와 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9) | ![100%](https://progress-bar.dev/0/?scale=107&width=60&color=babaca&suffix=/107) </br> 00h 00m | Spring Boot, Spring, Spring-Boot-Actuator </br> Prometheus, Grafana | ❌ | [❌](#) | [❌](#) |
+| 13 | [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94) | ![100%](https://progress-bar.dev/0/?scale=24&width=60&color=babaca&suffix=/24) </br> 00h 00m | BE, Java, Spring, Spring Boot, JPA | ❌ | [❌](#) | [❌](#) |
+| 14 | [실전! 스프링 데이터 JPA](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84) | ![100%](https://progress-bar.dev/0/?scale=32&width=60&color=babaca&suffix=/32) </br> 00h 00m | BE, Java, Spring, Spring Boot, JPA | ❌ | [❌](#) | [❌](#) |
+| 15 | [실전! Querydsl](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) | ![100%](https://progress-bar.dev/0/?scale=41&width=60&color=babaca&suffix=/41) </br> 00h 00m | Back-End, Java, jQuery, JPA | ❌ | [❌](#) | [❌](#) |
+| 21 | [호돌맨의 요절복통 개발쇼 (SpringBoot, Vue.JS, AWS)](https://www.inflearn.com/course/%ED%98%B8%EB%8F%8C%EB%A7%A8-%EC%9A%94%EC%A0%88%EB%B3%B5%ED%86%B5-%EA%B0%9C%EB%B0%9C%EC%87%BC) | ![100%](https://progress-bar.dev/0/?scale=76&width=60&color=babaca&suffix=/76) </br> 00h 00m | Spring Boot, JPA, AWS, Vue.js, Spring Security | ❌ | [❌](#) | [❌](#) |
+| 31 | [Spring Boot JWT Tutorial](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-jwt) | ![100%](https://progress-bar.dev/5/?scale=5&width=60&color=babaca&suffix=/5) </br> 0h 43m | Spring Boot, JWT | 22.05.19 ~ 22.05.20 | [✅](https://github.com/rylahs/SpringBoot-Jwt-Tutorial) | [✅](https://github.com/rylahs/SpringBoot-Jwt-Tutorial) |
+| 41 | [예제로 배우는 스프링 입문 (개정판)](https://www.inflearn.com/course/spring_revised_edition) | ![100%](https://progress-bar.dev/0/?scale=13&width=60&color=babaca&suffix=/13) </br> 00h 00m | Java, Spring | ❌ | [❌](#) | [❌](#) |
+| 42 | [스프링과 JPA 기반 웹 애플리케이션 개발](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-JPA-%EC%9B%B9%EC%95%B1) | ![100%](https://progress-bar.dev/0/?scale=96&width=60&color=babaca&suffix=/96) </br> 00h 00m | Java, Spring, Spring Boot, </br> Thymeleaf, JPA | ❌ | [❌](#) | [❌](#) |
+| 51 | [프론트엔드 인터뷰](https://www.inflearn.com/course/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91-%ED%81%B0%EB%8F%8C) | ![100%](https://progress-bar.dev/24/?scale=70&width=60&color=babaca&suffix=/24) </br> 00h 00m | 면접, 기술 면접 | ❌ | [❌](#) | [❌](#) |
+| 52 | [CS 지식의 정석](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-cs-%ED%8A%B9%EA%B0%95) | ![100%](https://progress-bar.dev/0/?scale=193&width=60&color=babaca&suffix=/193) </br> 00h 00m | 면접, OS, Data Structure | 22.05.21 ~ 22.05.31 </br> 22.06.17 ~ 22.06.22 </br> 23.08.15 ~ 23.08.15 | [✅](https://www.inflearn.com/certificate/693269-328823-10467316) | [✅] |(https://www.inflearn.com/certificate/693269-328823-10467316) |
