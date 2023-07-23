@@ -37,7 +37,7 @@ Last Update Date : 2023.07.20
 ![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)    
 
 0x06. [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)    
-![100%](https://progress-bar.dev/0/?scale=3&title=progress&width=500&color=babaca&suffix=/3)    
+![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)    
 
 0x07. [덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)    
 ![100%](https://progress-bar.dev/0/?scale=4&title=progress&width=500&color=babaca&suffix=/4)    
