@@ -11,4 +11,4 @@
 | 07 | [SQL 활용](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=217241) | Database | 22.02.01 ~ 22.02.28 | [✅](./Step/DataBase(K).pdf) | [✅](./Step/Score/DataBase(K).PNG) | 
 | 08 | [C# 프로그래밍](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216907) | C# | 22.02.01 ~ 22.02.28 | [✅](./Step/Csharp(K).pdf) | [✅](./Step/Score/Csharp(K).PNG) | 
 | 09 | [C++ 프로그래밍](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216905) | C++ | 22.02.01 ~ 22.02.28 | [✅](./Step/C++(K).pdf) | [✅](./Step/Score/C++(K).PNG) | 
-| 99 | [[디지털 기초역량 슬기로운 디지털 생활 (사이드 프로젝트 성공전략)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=205747) | Side | 22.01.15 ~ 22.02.14 | [✅](./Step/SideProject.pdf) | [✅](./Step/Score/Side(K).PNG) | 
+| 99 | [디지털 기초역량 슬기로운 디지털 생활 (사이드 프로젝트 성공전략)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=205747) | Side | 22.01.15 ~ 22.02.14 | [✅](./Step/SideProject.pdf) | [✅](./Step/Score/Side(K).PNG) | 
