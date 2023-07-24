@@ -3,7 +3,7 @@
  총 수강 시간 : 14 Hours 45 Minutes + @
  
 ## 📍 Web Progress Record (S : Status / R : Result) 
-###   Listen Time : 03 Hours 58 Minutes
+###   Listen Time : 08 Hours 33 Minutes
 
 [학습현황](https://github.com/rylahs/Lecture/blob/main/Web/ReadMe.md)
 
