@@ -12,7 +12,7 @@
 ✅❌:hammer:
 | 번호 | 강의 제목 | Time | Check | Result |
 | :--: | :--: | :--: | :--: | :--: |
-| Section 0 | Intro |  Lectures / m s | :hammer: |  |
+| Section 0 | Intro |  Lectures / m | :hammer: |  |
 | Chapter 0-1 |  |  | ❌ | |
 | Chapter 0-2 |  |  | ❌ | |
 | Chapter 0-3 |  |  | ❌ | | 
