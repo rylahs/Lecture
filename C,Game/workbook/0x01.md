@@ -1,0 +1,153 @@
+# 0xFFFF. 강의 제목 [링크](#)
+
+## 총 n강 ( hours  minutes)
+
+## 수강 기간 
+- 학습          : 2023.. ~ ing
+
+## Last Update (d)    
+
+![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1)
+
+✅❌:hammer:
+| 번호 | 강의 제목 | Time | Check | Result |
+| :--: | :--: | :--: | :--: | :--: |
+| Section 0 | Intro |  Lectures / m | ❌ |  |
+| Chapter 0-1 |  |  | ❌ | |
+| Chapter 0-2 |  |  | ❌ | |
+| Chapter 0-3 |  |  | ❌ | | 
+| | | | | |
+| Section 1 |  |  Lectures / m | ❌ | |
+| Chapter 1-1 |  |  | ❌ | | 
+| Chapter 1-2 |  |  | ❌ | |
+| Chapter 1-3 |  |  | ❌ | | 
+| Chapter 1-4 |  |  | ❌ | |
+| Chapter 1-5 |  |  | ❌ | |
+| Chapter 1-6 |  |  | ❌ | | 
+| | | | | |
+| Section 2 |  |  Lectures / m | ❌ | |
+| Chapter 2-1 |  |  | ❌ | | 
+| Chapter 2-2 |  |  | ❌ | |
+| Chapter 2-3 |  |  | ❌ | | 
+| | | | | |
+| Section 3 |  |  Lectures / h m | ❌ | |
+| Chapter 3-1 |  |  | ❌ | | 
+| Chapter 3-2 |  |  | ❌ | |
+| Chapter 3-3 |  |  | ❌ | | 
+| Chapter 3-4 |  |  | ❌ | | 
+| Chapter 3-5 |  |  | ❌ | | 
+| Chapter 3-6 |  |  | ❌ | | 
+| Chapter 3-7 |  |  | ❌ | |
+| Chapter 3-8 |  |  | ❌ | | 
+| Chapter 3-9 |  |  | ❌ | | 
+| Chapter 3-10 |  |  | ❌ | | 
+| Chapter 3-11 |  |  | ❌ | | 
+| | | | | |
+| Section 4 |  |  Lectures / h m | ❌ | | 
+| Chapter 4-1 |  |  | ❌ | | 
+| Chapter 4-2 |  |  | ❌ | | 
+| Chapter 4-3 |  |  | ❌ | | 
+| Chapter 4-4 |  |  | ❌ | | 
+| Chapter 4-5 |  |  | ❌ | | 
+| Chapter 4-6 |  |  | ❌ | | 
+| Chapter 4-7 |  |  | ❌ | | 
+| | | | | |
+| Section 5 |  |  Lectures / h m | ❌ | | 
+| Chapter 5-1 |  |  | ❌ | | 
+| Chapter 5-2 |  |  | ❌ | | 
+| Chapter 5-3 |  |  | ❌ | | 
+| Chapter 5-4 |  |  | ❌ | | 
+| Chapter 5-5 |  |  | ❌ | | 
+| Chapter 5-6 |  |  | ❌ | | 
+| Chapter 5-7 |  |  | ❌ | | 
+| | | | | |
+| Section 6 |  |  Lectures / h m | ❌ | | 
+| Chapter 6-1 |  |  | ❌ | | 
+| Chapter 6-2 |  |  | ❌ | | 
+| Chapter 6-3 |  |  | ❌ | | 
+| Chapter 6-4 |  |  | ❌ | | 
+| Chapter 6-5 |  |  | ❌ | | 
+| Chapter 6-6 |  |  | ❌ | | 
+| Chapter 6-7 |  |  | ❌ | | 
+| | | | | |
+| Section 7 |  |  Lectures / h m | ❌ | | 
+| Chapter 7-1 |  |  | ❌ | | 
+| Chapter 7-2 |  |  | ❌ | | 
+| Chapter 7-3 |  |  | ❌ | | 
+| Chapter 7-4 |  |  | ❌ | | 
+| Chapter 7-5 |  |  | ❌ | | 
+| Chapter 7-6 |  |  | ❌ | | 
+| Chapter 7-7 |  |  | ❌ | | 
+| | | | | |
+| Section 8 |  |  Lectures / h m | ❌ | | 
+| Chapter 8-1 |  |  | ❌ | | 
+| Chapter 8-2 |  |  | ❌ | | 
+| Chapter 8-3 |  |  | ❌ | | 
+| Chapter 8-4 |  |  | ❌ | | 
+| Chapter 8-5 |  |  | ❌ | | 
+| Chapter 8-6 |  |  | ❌ | | 
+| Chapter 8-7 |  |  | ❌ | | 
+| | | | | |
+| Section 9 |  |  Lectures / h m | ❌ | | 
+| Chapter 9-1 |  |  | ❌ | | 
+| Chapter 9-2 |  |  | ❌ | | 
+| Chapter 9-3 |  |  | ❌ | | 
+| Chapter 9-4 |  |  | ❌ | | 
+| Chapter 9-5 |  |  | ❌ | | 
+| Chapter 9-6 |  |  | ❌ | | 
+| Chapter 9-7 |  |  | ❌ | | 
+| | | | | |
+| Section 10 |  |  Lectures / h m | ❌ | | 
+| Chapter 10-1 |  |  | ❌ | | 
+| Chapter 10-2 |  |  | ❌ | | 
+| Chapter 10-3 |  |  | ❌ | | 
+| Chapter 10-4 |  |  | ❌ | | 
+| Chapter 10-5 |  |  | ❌ | | 
+| Chapter 10-6 |  |  | ❌ | | 
+| Chapter 10-7 |  |  | ❌ | | 
+| | | | | |
+| Section 11 |  |  Lectures / h m | ❌ | | 
+| Chapter 11-1 |  |  | ❌ | | 
+| Chapter 11-2 |  |  | ❌ | | 
+| Chapter 11-3 |  |  | ❌ | | 
+| Chapter 11-4 |  |  | ❌ | | 
+| Chapter 11-5 |  |  | ❌ | | 
+| Chapter 11-6 |  |  | ❌ | | 
+| Chapter 11-7 |  |  | ❌ | | 
+| | | | | |
+| Section 12 |  |  Lectures / h m | ❌ | | 
+| Chapter 12-1 |  |  | ❌ | | 
+| Chapter 12-2 |  |  | ❌ | | 
+| Chapter 12-3 |  |  | ❌ | | 
+| Chapter 12-4 |  |  | ❌ | | 
+| Chapter 12-5 |  |  | ❌ | | 
+| Chapter 12-6 |  |  | ❌ | | 
+| Chapter 12-7 |  |  | ❌ | | 
+| | | | | |
+| Section 13 |  |  Lectures / h m | ❌ | | 
+| Chapter 13-1 |  |  | ❌ | | 
+| Chapter 13-2 |  |  | ❌ | | 
+| Chapter 13-3 |  |  | ❌ | | 
+| Chapter 13-4 |  |  | ❌ | | 
+| Chapter 13-5 |  |  | ❌ | | 
+| Chapter 13-6 |  |  | ❌ | | 
+| Chapter 13-7 |  |  | ❌ | | 
+| | | | | |
+| Section 14 |  |  Lectures / h m | ❌ | | 
+| Chapter 14-1 |  |  | ❌ | | 
+| Chapter 14-2 |  |  | ❌ | | 
+| Chapter 14-3 |  |  | ❌ | | 
+| Chapter 14-4 |  |  | ❌ | | 
+| Chapter 14-5 |  |  | ❌ | | 
+| Chapter 14-6 |  |  | ❌ | | 
+| Chapter 14-7 |  |  | ❌ | | 
+| | | | | |
+| Section 15 |  |  Lectures / h m | ❌ | | 
+| Chapter 15-1 |  |  | ❌ | | 
+| Chapter 15-2 |  |  | ❌ | | 
+| Chapter 15-3 |  |  | ❌ | | 
+| Chapter 15-4 |  |  | ❌ | | 
+| Chapter 15-5 |  |  | ❌ | | 
+| Chapter 15-6 |  |  | ❌ | | 
+| Chapter 15-7 |  |  | ❌ | | 
+| | | | | |
