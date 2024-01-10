@@ -1,12 +1,12 @@
 ## 📍 Algorithm Progress Record    
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rylahs)](https://solved.ac/rylahs)    
-[![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=rylahs&theme=dark)](https://solved.ac/rylahs)    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mintarisha)](https://solved.ac/mintarisha)    
+[![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=mintarisha&theme=dark)](https://solved.ac/mintarisha)    
 
-[BOJ : rylahs](https://github.com/rylahs/BOJ/blob/main/README.md)    
-[현재 Silver I 상위 34.26%](https://solved.ac/profile/rylahs)    
+[BOJ : mintarisha](https://github.com/rylahs/BOJ/blob/main/README.md)    
+[현재 BRONZE V 상위 93.48%](https://solved.ac/profile/rylahs)    
 [학습현황](https://github.com/rylahs/Lecture/blob/main/BaaaaaaaaaaaaaaaaaaaaarkingDog/ReadMe.md)    
-[BOJ 작성 코드 리포지토리](https://github.com/rylahs/Algorithm-2023-)
+[BOJ 작성 코드 리포지토리](https://github.com/rylahs/Algorithm-2024-)
 
 ### 현재 학습 진행도     
 
