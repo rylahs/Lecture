@@ -23,8 +23,8 @@
   
 [학습현황](https://github.com/rylahs/Lecture/blob/main/BaaaaaaaaaaaaaaaaaaaaarkingDog/ReadMe.md)    
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rylahs)](https://solved.ac/rylahs)    
-[![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=rylahs&theme=dark)](https://solved.ac/rylahs)    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mintarisha)](https://solved.ac/mintarisha)    
+[![Mazandi Profile](http://mazandi.herokuapp.com/api?handle=mintarisha&theme=dark)](https://solved.ac/mintarisha)    
 
 
 
