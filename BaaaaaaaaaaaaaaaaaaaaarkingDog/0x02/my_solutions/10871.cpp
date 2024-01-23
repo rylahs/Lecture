@@ -1,31 +1,27 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int num[202];
-
 int main(void)
 {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
 
-	int n, x;
-	cin >> n >> x;
+    int n, x;
+    cin >> n >> x;
 
-	vector<int> v;
+    vector<int> v;
 
-	for (int i = 0; i < n; i++)
-	{
-		int input;
-		cin >> input;
+    for (int i = 0; i < n; i++)
+    {
+        int input;
+        cin >> input;
+        if (input < x)
+            v.push_back(input);
+    }
 
-		if (input < x)
-			v.emplace_back(input);
-	}
+    for (auto e : v)
+        cout << e << " ";
+    cout << "\n";
 
-	for (vector<int>::size_type i = 0; i < v.size(); i++)
-	{
-		cout << v[i] << " ";
-	}
-
-	return 0;
+    return 0;
 }
