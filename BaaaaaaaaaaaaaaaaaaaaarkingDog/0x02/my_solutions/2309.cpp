@@ -1,44 +1,44 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 int main(void)
 {
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
 
-	vector<int> nine;
-	vector<int> seven;
+	vector<int> originData(9);
+	for (int i = 0; i < 9; i++)
+		cin >> originData[i];
 
+	vector<int> tmp;
+	int sum = 0;
 	for (int i = 0; i < 9; i++)
 	{
-		int input;
-		cin >> input;
-
-		nine.emplace_back(input);
-	}
-
-	for (int i = 0; i < (int)nine.size(); i++)
-	{
-		for (int j = 0; j < (int)nine.size(); j++)
+		for (int j = 0; j < 9; j++)
 		{
-			if (i == j) continue;
-			seven.clear();
-
-			for (int k = 0; k < (int)nine.size(); k++)
+			if (i == j)
+				continue;
+			tmp.clear();
+			sum = 0;
+			for (int k = 0; k < 9; k++)
 			{
-				if (i == k || j == k) continue;
-				seven.emplace_back(nine[k]);
+				if (k == i || k == j)
+					continue;
+				tmp.push_back(originData[k]);
 			}
 
-			if (accumulate(seven.begin(), seven.end(), 0) == 100)
+			sum = accumulate(tmp.begin(), tmp.end(), 0);
+			
+			if (sum == 100)
 				break;
 		}
-		if (accumulate(seven.begin(), seven.end(), 0) == 100)
+		if (sum == 100)
 			break;
 	}
-	sort(seven.begin(), seven.end());
+	sort(tmp.begin(), tmp.end());
 
-	for (auto& e : seven)
+	for (auto& e : tmp)
 		cout << e << "\n";
 
 	return 0;
