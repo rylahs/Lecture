@@ -3,23 +3,24 @@ using namespace std;
 
 int main(void)
 {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
 
-	int n = 5;
+    vector<int> number(5);
 
-	vector<int> num;
-	while (n--)
-	{
-		int input;
-		cin >> input;
+    for (int i = 0; i < number.size(); i++)
+    {
+        cin >> number[i];
+    }
 
-		num.emplace_back(input);
-	}
+    sort(number.begin(), number.end());
 
-	sort(num.begin(), num.end());
+    int avg = accumulate(number.begin(), number.end(), 0) / 5;
+    int centerNum = number[2];
 
-	cout << accumulate(num.begin(), num.end(), 0) / 5 << "\n";
-	cout << num[2] << "\n";
-	return 0;
+    cout << avg << "\n";
+    cout << centerNum << "\n";
+
+
+    return 0;
 }
