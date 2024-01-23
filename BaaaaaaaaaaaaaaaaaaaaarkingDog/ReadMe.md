@@ -18,7 +18,7 @@ Last Update Date : 2024.01.23
 ### 내 문제집
 | 번호(영상 or 정답) | 주제 | 진행도 |
 | :--: | :--: | :--: |
-| 0xFF | 한눈에 보기 | ![100%](https://progress-bar.dev/79/?scale=460&title=progress&width=500&color=babaca&suffix=/460) | 
+| 0xFF | 한눈에 보기 | ![100%](https://progress-bar.dev/67/?scale=461&title=progress&width=500&color=babaca&suffix=/461) | 
 | [0x00](https://youtu.be/LcOIobH7ues?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) | 오리엔테이션 | ![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1) | 
 | [0x01](https://youtu.be/9MMKsrvRiw4?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) | 기초 코드 작성 요령 I | ![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1) | 
 | [0x02](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md) | [기초 코드 작성 요령 II](https://github.com/rylahs/Lecture/blob/main/BaaaaaaaaaaaaaaaaaaaaarkingDog/workbook/0x02.md) | ![100%](https://progress-bar.dev/27/?scale=27&title=progress&width=500&color=babaca&suffix=/27) | 
