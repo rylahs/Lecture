@@ -3,31 +3,30 @@ using namespace std;
 
 int main(void)
 {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
 
-	vector<int> oddNum;
+    vector<int> oddNum;
+    for (int i = 0; i < 7; i++)
+    {
+        int input;
+        cin >> input;
+        if (input % 2 == 1)
+            oddNum.push_back(input);
+    }
+    if (oddNum.size() == 0)
+    {
+        cout << -1 << "\n";
+    }
+    else
+    {
+        sort(oddNum.begin(), oddNum.end());
 
-	int n = 7;
-	while (n--)
-	{
-		int input;
-		cin >> input;
+        int sum = accumulate(oddNum.begin(), oddNum.end(), 0);
+        int minNum = oddNum[0];
 
-		if (input % 2 != 0)
-			oddNum.emplace_back(input);
-	}
-
-	if (oddNum.empty())
-		cout << -1 << "\n";
-	else
-	{
-		int sum = accumulate(oddNum.begin(), oddNum.end(), 0);
-		int minOddNum = *min_element(oddNum.begin(), oddNum.end());
-
-		cout << sum << "\n" << minOddNum << "\n";
-
-	}
-
-	return 0;
+        cout << sum << "\n";
+        cout << minNum << "\n";
+    }
+    return 0;
 }
