@@ -1,22 +1,24 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 int main(void)
 {
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
 
-	set<int, less<int>> st;
-
-	for (int i = 0; i < 3; i++)
+	vector<int> v(3);
+	
+	for (int i = 0; i < v.size(); i++)
 	{
-		int input;
-		cin >> input;
-		st.emplace(input);
+		cin >> v[i];
 	}
 
-	for (auto& e : st)
+	sort(v.begin(), v.end());
+
+	for (auto e : v)
 		cout << e << " ";
+
 
 	return 0;
 }
